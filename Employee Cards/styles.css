@@ -1,0 +1,15 @@
+.employee-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .employee-card {
+    flex: 1 1 30%;
+    margin: 10px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+  }
+  
